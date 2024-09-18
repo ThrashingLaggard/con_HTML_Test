@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leon\\source\\repos\\con_HTML_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B700EBF3-CB9E-4D18-9CE0-9415909EE6F6}|con_HTML_Test\\con_HTML_Test.csproj|c:\\users\\leon\\source\\repos\\con_html_test\\con_html_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B700EBF3-CB9E-4D18-9CE0-9415909EE6F6}|con_HTML_Test\\con_HTML_Test.csproj|solutionrelative:con_html_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B700EBF3-CB9E-4D18-9CE0-9415909EE6F6}|con_HTML_Test\\con_HTML_Test.csproj|c:\\users\\leon\\source\\repos\\con_html_test\\con_html_test\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B700EBF3-CB9E-4D18-9CE0-9415909EE6F6}|con_HTML_Test\\con_HTML_Test.csproj|solutionrelative:con_html_test\\test.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.html",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\con_HTML_Test\\con_HTML_Test\\test.html",
+              "RelativeDocumentMoniker": "con_HTML_Test\\test.html",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\con_HTML_Test\\con_HTML_Test\\test.html",
+              "RelativeToolTip": "con_HTML_Test\\test.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-18T07:21:57.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leon\\source\\repos\\con_HTML_Test\\con_HTML_Test\\Program.cs",
+              "RelativeDocumentMoniker": "con_HTML_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Leon\\source\\repos\\con_HTML_Test\\con_HTML_Test\\Program.cs",
+              "RelativeToolTip": "con_HTML_Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:18:16.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

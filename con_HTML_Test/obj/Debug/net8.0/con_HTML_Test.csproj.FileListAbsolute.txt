@@ -1,0 +1,14 @@
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\bin\Debug\net8.0\con_HTML_Test.exe
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\bin\Debug\net8.0\con_HTML_Test.deps.json
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\bin\Debug\net8.0\con_HTML_Test.runtimeconfig.json
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\bin\Debug\net8.0\con_HTML_Test.dll
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\bin\Debug\net8.0\con_HTML_Test.pdb
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.AssemblyInfoInputs.cache
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.AssemblyInfo.cs
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.csproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.dll
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\refint\con_HTML_Test.dll
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.pdb
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\con_HTML_Test.genruntimeconfig.cache
+C:\Users\Leon\source\repos\con_HTML_Test\con_HTML_Test\obj\Debug\net8.0\ref\con_HTML_Test.dll
